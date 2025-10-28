@@ -20,10 +20,10 @@ The system can
 - edit entries
 ### Installation Instructions
 1. download the file
-2. make sure to have the following downloaded:
-   a. [laravel](https://laravel.com/docs/12.x/installation)
-   b. [xampp](https://www.apachefriends.org/download.html)
-   c. [visual studio code](https://code.visualstudio.com/download) 
+2. make sure to have the following downloaded: <br>
+   a. [laravel](https://laravel.com/docs/12.x/installation) <br>
+   b. [xampp](https://www.apachefriends.org/download.html) <br>
+   c. [visual studio code](https://code.visualstudio.com/download) <br>
 3. open the folder in vsc.
 4. go to terminal
 5. type `php artisan serve`
