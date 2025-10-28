@@ -26,7 +26,7 @@ The system can
    c. [visual studio code](https://code.visualstudio.com/download) 
 3. open the folder in vsc.
 4. go to terminal
-5. type 'php artisan serve'
+5. type `php artisan serve`
 6. click the server link
 **Done!** You can now access the project
 
@@ -40,5 +40,19 @@ The system can
 ### Screenshots or Code Snippets
 ![home page](cultivation_inventory/public/image.png)
 
-### Contributors — Include your name and, if applicable, your partner’s name.
-### License— You may specify a license if needed.
+.env
+```
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE=cultivation_inventory
+DB_USERNAME=root
+DB_PASSWORD=
+```
+
+### Contributors
+Eric Brandon B. Gurion
+Eric Brandon B. Gurion
+
+### License
+git version 2.51.0.windows.1
