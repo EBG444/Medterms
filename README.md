@@ -1,7 +1,6 @@
-# Medterms
-For Me, Myself, and I
-
-## Project Title
+# Project Title
+Cultivation Inventory - Midterm Project
+By: Eric Brandon B. Gurion
 
 ### Description / Overview
 The midterm project is about making a working laravel project based on a topic. I chose inventory management and specifically went with a chinese cultivation theme.
@@ -39,7 +38,7 @@ The system can
 - sort category ascending/descending
   
 ### Screenshots or Code Snippets
-
+![home page](public/pic.png)
 
 ### Contributors — Include your name and, if applicable, your partner’s name.
 ### License— You may specify a license if needed.
