@@ -51,7 +51,7 @@ DB_PASSWORD=
 ```
 
 ### Contributors
-Eric Brandon B. Gurion
+Eric Brandon B. Gurion  
 Eric Brandon B. Gurion
 
 ### License
