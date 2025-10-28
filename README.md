@@ -18,19 +18,28 @@ The system can
 - add new inventory entries
 - delete entries
 - sort by category
-- 
+- edit entries
 ### Installation Instructions
 1. download the file
 2. make sure to have the following downloaded:
-3.   [laravel](https://laravel.com/docs/12.x/installation)
-4.   [xampp](https://www.apachefriends.org/download.html)
-5.   [visual studio code](https://code.visualstudio.com/download) 
-6. open the folder in vsc.
-7. go to terminal
-8. type 'php artisan serve'
-9. click the server link
+   a. [laravel](https://laravel.com/docs/12.x/installation)
+   b. [xampp](https://www.apachefriends.org/download.html)
+   c. [visual studio code](https://code.visualstudio.com/download) 
+3. open the folder in vsc.
+4. go to terminal
+5. type 'php artisan serve'
+6. click the server link
 **Done!** You can now access the project
-### Usage — Provide simple steps or examples on how to use your project.
-### Screenshots or Code Snippets— Use Markdown image or code block syntax.
+
+### Usage
+- view treasures
+- add item
+- edit item details
+- delete items
+- sort category ascending/descending
+  
+### Screenshots or Code Snippets
+
+
 ### Contributors — Include your name and, if applicable, your partner’s name.
 ### License— You may specify a license if needed.
