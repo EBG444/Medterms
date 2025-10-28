@@ -40,7 +40,7 @@ The system can
 ### Screenshots or Code Snippets
 ![home page](cultivation_inventory/public/image.png)
 
-.env
+.env properties
 ```
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
