@@ -25,9 +25,10 @@ The system can
    b. [xampp](https://www.apachefriends.org/download.html) <br>
    c. [visual studio code](https://code.visualstudio.com/download) <br>
 3. open the folder in vsc.
-4. go to terminal
-5. type `php artisan serve`
-6. click the server link
+4. open xampp and open *Apache* and *MySQL*
+5. go to terminal
+6. type `php artisan serve`
+7. click the server link
 **Done!** You can now access the project
 
 ### Usage
