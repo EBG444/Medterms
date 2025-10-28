@@ -38,7 +38,7 @@ The system can
 - sort category ascending/descending
   
 ### Screenshots or Code Snippets
-![home page](public/image.png)
+![home page](cultivation_inventory/public/image.png)
 
 ### Contributors — Include your name and, if applicable, your partner’s name.
 ### License— You may specify a license if needed.
