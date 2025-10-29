@@ -1,5 +1,4 @@
-# Project Title
-Cultivation Inventory - Midterm Project <br>
+# Cultivation Inventory - Midterm Project <br>
 By: Eric Brandon B. Gurion
 
 ### Description / Overview
